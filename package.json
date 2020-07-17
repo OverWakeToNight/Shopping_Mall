@@ -8,17 +8,31 @@
     "type-check": "tsc"
   },
   "dependencies": {
+    "@styled-system/theme-get": "^5.1.2",
+    "@types/styled-system__theme-get": "^5.0.0",
+    "currency.js": "^2.0.0",
+    "install": "^0.13.0",
+    "js-cookie": "^2.2.1",
+    "mobile-detect": "^1.4.4",
     "next": "latest",
+    "next-cookie": "^2.3.0",
+    "next-cookies": "^2.0.3",
+    "next-router": "^1.3.6",
+    "next-routes": "^1.4.2",
+    "npm": "^6.14.6",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "styled-components": "^5.1.1",
     "styled-system": "^5.1.5"
   },
   "devDependencies": {
+    "@types/js-cookie": "^2.2.6",
     "@types/node": "^12.12.21",
     "@types/react": "^16.9.16",
     "@types/react-dom": "^16.9.4",
+    "@types/styled-components": "^5.1.1",
     "@types/styled-system": "^5.1.9",
+    "resize-observer-polyfill": "^1.5.1",
     "typescript": "3.7.3"
   },
   "license": "ISC"
